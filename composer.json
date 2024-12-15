@@ -1,0 +1,17 @@
+{
+    "name": "ashterhaider/hostel-booking-demo",
+    "autoload": {
+        "psr-4": {
+            "Ashterhaider\\HostelBookingDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GawainTheCoder",
+            "email": "ashter.haider@gmail.com"
+        }
+    ],
+    "require": {
+        "duncan3dc/blade": "^4.14"
+    }
+}
