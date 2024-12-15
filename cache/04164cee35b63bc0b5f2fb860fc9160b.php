@@ -15,7 +15,6 @@
     <div class="max-w-7xl mx-auto px-4 flex flex-wrap justify-center items-center gap-4">
         <select class="border border-gray-300 rounded px-3 py-2">
             <option>Location</option>
-            <option>Lahore</option>
             <option>Model Town</option>
             <option>DHA</option>
             <option>Gulberg</option>
