@@ -20,6 +20,7 @@
             <option>Model Town</option>
             <option>DHA</option>
             <option>Gulberg</option>
+            <option>Johar Town</option>
         </select>
 
         <select class="border border-gray-300 rounded px-3 py-2">
